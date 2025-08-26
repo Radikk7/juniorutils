@@ -1,4 +1,11 @@
 # JuniorUtils
+![Java](https://img.shields.io/badge/Java-17%2B-blue)
+![Build](https://img.shields.io/badge/build-Maven-success)
+![License](https://img.shields.io/badge/license-MIT-green)
+[![CI](https://img.shields.io/badge/CI-GitHub%20Actions-blue)](#-tests)
+[![Tests](https://img.shields.io/badge/tests-JUnit5-success)](#-tests)
+
+
 
 A tiny Java utility library for juniors (and not only): strings, arrays, numbers, encoding/decoding — plus an interactive CLI demo.
 
