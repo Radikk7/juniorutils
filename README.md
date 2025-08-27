@@ -2,8 +2,8 @@
 ![Java](https://img.shields.io/badge/Java-17%2B-blue)
 ![Build](https://img.shields.io/badge/build-Maven-success)
 ![License](https://img.shields.io/badge/license-MIT-green)
-[![CI](https://img.shields.io/badge/CI-GitHub%20Actions-blue)](#-tests)
-[![Tests](https://img.shields.io/badge/tests-JUnit5-success)](#-tests)
+[![CI](https://img.shields.io/badge/CI-GitHub%20Actions-blue)]()
+[![Tests](https://img.shields.io/badge/tests-JUnit5-success)]()
 
 
 
