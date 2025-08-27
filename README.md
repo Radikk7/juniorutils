@@ -91,6 +91,17 @@ PRs and issues are welcome!
 
 MIT
 
+## 🖼️ Screenshots
+
+### Main Menu
+![Main Menu](docs/screenshots/main-menu.png)
+
+### String Operations
+![String Operations](docs/screenshots/string-ops.png)
+
+### Array Operations
+![Array Operations](docs/screenshots/array-ops.png)
+
 📚 Описание (на русском)
 
 JuniorUtils — небольшая библиотека утилит для джунов: строки, массивы, числа, кодирование/декодирование + консольное демо.
